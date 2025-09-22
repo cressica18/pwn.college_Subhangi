@@ -14,4 +14,4 @@ pwn.college{IeFc7yKxiQ0QO-d3MCDrZgnygU7.0lNzEzNxwyN1AzNzEzW}
 ### New Learnings
 Learned hwo to get the previous commands which will be extremely helpful for the future
 ### References 
-NA
+Command Line video provided in the Pwn.
