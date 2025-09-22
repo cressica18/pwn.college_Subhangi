@@ -1,4 +1,4 @@
-# Module Name Intro to Arguments
+# Module Name Hello Hackers
 
 ## Challenge Name
 You're going to type a lot of commands, and typing everything from scratch can be annoying. Luckily, the shell saves a history of every command you invoke.
