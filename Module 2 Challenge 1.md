@@ -1,5 +1,5 @@
 # Module Name 
-The Root
+Pondering Paths
 
 ## Challenge Name
 Alright, so the filesystem starts at /. Under that, there are a whole mess of other directories, configuration files, programs, and, most importantly, flags. In this level, we've added a program right in /, called pwn, that will give you the flag. All you need to do for this level is to invoke this program!
