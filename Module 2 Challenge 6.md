@@ -1,5 +1,5 @@
 # Module Name 
-The Root
+Pondering Paths
 
 ## Challenge Name
 The Linux filesystem has tons of directories with tons of files. You can navigate around directories by using the cd (change directory) command and passing a path to it as an argument, as so:
