@@ -1,4 +1,5 @@
 # Module Name
+Comprehending Commands
 
 ## Challenge Name
 You can also move files around with the mv command. The usage is simple:
