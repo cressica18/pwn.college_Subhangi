@@ -1,4 +1,5 @@
 # Module Name
+Comprehending Commands
 
 ## Challenge Name
 Files are all around you. Like candy wrappers, there'll eventually be too many of them. In this level, we'll learn to clean up!
