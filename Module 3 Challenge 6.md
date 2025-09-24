@@ -1,4 +1,5 @@
 # Module Name
+Comprehending Commands
 
 ## Challenge Name
 So far, we've told you which files to interact with. But directories can have lots of files (and other directories) inside them, and we won't always be here to tell you their names. You'll need to learn to list their contents using the ls command!
