@@ -1,5 +1,5 @@
 # Module Name
-
+Comprehending Commands
 ## Challenge Name
 Sometimes, the files that you might cat out are too big. Luckily, we have the grep command to search for the contents we need! We'll learn it in this challenge.
 
