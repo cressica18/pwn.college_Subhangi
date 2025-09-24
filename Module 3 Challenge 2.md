@@ -1,4 +1,5 @@
 # Module Name
+Comprehending Commands
 
 ## Challenge Name
 In the last level, you did cat flag to read the flag out of your home directory! You can, of course, specify cat's arguments as absolute paths:
