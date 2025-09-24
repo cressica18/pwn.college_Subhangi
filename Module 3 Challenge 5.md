@@ -1,5 +1,5 @@
 # Module Name
-
+Comprehending Commands
 ## Challenge Name
 When looking for changes between similar files, eyeballing them might not be the most efficient approach! This is where the diff command becomes invaluable.
 
