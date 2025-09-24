@@ -22,7 +22,7 @@ Follow the clues to the flag!
 Good luck!
 ### Solve
 
-Follow the breadcrumbs: use ls to explore directories, cat to read clues, ls -a to reveal hidden files, and cd only when the clue is delayed
+I followed the breadcrumbs: using ls and cat to read clues, ls -a to reveal hidden files, and cd only when the clue is delayed
 ```bash
 **Command 1:** `cd /`
 **Command 2:** `ls`
