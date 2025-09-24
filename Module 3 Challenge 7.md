@@ -1,4 +1,5 @@
 # Module Name
+Comprehending Commands
 
 ## Challenge Name
 Of course, you can also create files! There are several ways to do this, but we'll look at a simple command here. You can create a new, blank file by touching it with the touch command:
